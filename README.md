@@ -1,4 +1,4 @@
-# Alfred Workflow: Open Arc Tabs
+# Alfred Workflow: Open Arc Tab
 
 ## Description
 
