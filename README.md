@@ -21,7 +21,13 @@ and "Arc Space" as the subtitle.
 This workflow can be triggered by typing the "[" character after
 invoking Alfred, or with the option-commmand-[ hotkey. No space is
 needed after the "[" character, which makes starting the search process
-very efficient.
+very efficient. If desired, you can configure the workflow to use a
+different keyword to trigger the workflow. Using a single non-alphabetic
+character such as ";" or "\" works best since it minimizes the amount of
+typing you have to do, but whole words such as "oat" or "oat " also
+work. If you change the keyword to another character, you should also
+change the hotkey combination to use the same single non-alphabetic
+character (for example, option-command-; or option-command-\).
 
 Although the workflow depends on the Arc application being installed, it
 will gracefully handle the situation where it is not installed, and will
